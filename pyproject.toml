@@ -9,12 +9,12 @@ build-backend = "setuptools.build_meta"
 requires = ["setuptools>=80", "wheel"]
 
 [project]
-authors = [{name = "Denise Case"}] # TODO: Change to YOUR name (ownership matters)
+authors = [{name = "James Pinkston"}]
 classifiers = [
   "Programming Language :: Python :: 3 :: Only",
   "Programming Language :: Python :: 3.12",
 ]
-description = "Professional Python starter project using uv and a src layout"
+description = "Data Analytics Capstone Project - Credit Card Fraud Detection"
 license = "MIT"
 name = "analytics-project" # PACKAGE name (matches src folder except with dashes)
 readme = "README.md"
@@ -28,6 +28,8 @@ dependencies = [ # fmt: off
   "seaborn",     # Statistical charts built on matplotlib
   "ipython",     # Enhanced Python shell (needed for notebooks)
   "ipykernel",   # Jupyter kernel for notebooks
+  "numpy",
+  "scikit-learn",
 ]  # fmt: on
 
 [project.urls]
