@@ -2,7 +2,7 @@
 # Configuration file for MkDocs (Automated project documentation generator)
 
 site_name: Data Analytics Capstone Project
-site_url: https://github.com/james-0177/data-analytics-capstone
+site_url: https://james-0177.github.io/data-analytics-capstone/
 repo_url: https://github.com/james-0177/data-analytics-capstone
 site_description: Master of Science Data Analytics Capstone Project
 site_author: James Pinkston

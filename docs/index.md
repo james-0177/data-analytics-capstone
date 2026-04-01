@@ -1,4 +1,4 @@
-# Analytics Project Documentation
+# Data Analytics Capstone Project Documentation
 
 Welcome! This site provides automatically generated reference documenation for your project.
 
