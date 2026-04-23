@@ -33,7 +33,7 @@ Models were evaluated using:
 
 ## Repository Structure
 - [`eda.ipynb`](./notebooks/eda.ipynb) – Data analysis and modeling
-- `capstone.png` – Model comparison results
+- [`capstone.png`](./images/capstone.png) – Model comparison results
 - LaTeX report – Final project report
 
 ## Author
