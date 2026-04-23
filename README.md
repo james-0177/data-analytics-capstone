@@ -38,7 +38,7 @@ Models were evaluated using:
 ## Repository Structure
 - [`eda.ipynb`](./notebooks/eda.ipynb) – Data analysis and modeling
 - [`capstone.png`](./docs/images/capstone.png) – Model comparison results
-- LaTeX report – Final project report
+- [LaTeX report](./docs/credit-card-fraud-detection-report.pdf) – Final project report
 
 ## Author
 James D. Pinkston
