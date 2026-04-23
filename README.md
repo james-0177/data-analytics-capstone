@@ -4,7 +4,7 @@
 This project applies machine learning techniques to detect fraudulent credit card transactions using a publicly available dataset from Kaggle.
 
 ## Dataset
-- Source: Kaggle (ULB Machine Learning Group)
+- Source: [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) (ULB Machine Learning Group)
 - Contains anonymized transaction data
 - Highly imbalanced dataset with very few fraudulent transactions
 
@@ -32,7 +32,7 @@ Models were evaluated using:
 - Recall is critical for fraud detection problems
 
 ## Repository Structure
-- `eda.ipynb` – Data analysis and modeling
+- [`eda.ipynb`](./notebooks/eda.ipynb) – Data analysis and modeling
 - `capstone.png` – Model comparison results
 - LaTeX report – Final project report
 
